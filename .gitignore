@@ -12,7 +12,6 @@ rock_scissors_papper
 *.geojson
 *.csv
 *.xlsx
-*.html
 *.json
 *.png
 *.txt
